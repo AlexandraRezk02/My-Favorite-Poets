@@ -1,0 +1,111 @@
+/*For Every Page */
+body{
+    margin: auto;
+}
+
+#title a{
+    text-decoration: none;
+    top: 10px;
+    left: 200px;
+}
+
+nav{
+    height: 25px;
+    width: 400px;
+    margin: auto;
+}
+nav li{
+    text-decoration: none;
+    display: inline;
+    margin-right: 10px;
+}
+#pagenavi{
+    width: 250px;
+    float: left;
+    padding: 20px, 0px, 0px, 0px;
+    margin-right: 20px;
+}
+#pagenavi li{
+    list-style-type: none;
+    margin: auto
+}
+
+#intro {
+    width: 960px;
+    height: 150px;
+    margin-top: 20px;
+}
+#intro img{
+    float:left;
+    margin-left: 10px;
+    margin-right: 20px;
+    width: 400px;
+    height: auto;
+}
+
+#intro p{
+    padding: 75px;
+}
+
+a {
+    text-decoration: none;
+}
+
+#topBtn {
+    width: 80px;
+    height: 20px;
+    margin:auto;
+    padding: 0px 10px;
+}
+
+/*For Contact Page*/
+#contactInfo{
+    width: 960px;
+    height: 350px;
+    margin: 20px auto;
+}
+#contactInfo img{
+    width: 200px;
+    height: 280px;
+    float:left;
+    margin: 20px;
+}
+
+#socialMediaBtns{
+    
+}
+
+/* For More Info Page*/
+/*For Museum Page */
+
+#EAPMuseum, #EDMuseum, #SSMuseum {
+    width: 960px;
+    height: 400px;
+    margin: auto;
+}
+.museumImage img{
+    width: 450px;
+    height: 300px;
+    float: left;
+    margin: 20px;
+}
+.title{
+    width: 300px;
+    height: 20px;
+    margin: auto;
+    padding: 0px;
+}
+
+/*For About Page*/
+.image img{
+    width: 300px;
+    height: 300px;
+    float:left;
+    margin: 20px;
+}
+
+#EAP, #ED, #SS {
+    width: 960px;
+    height: 400px;
+    margin: auto;
+}
